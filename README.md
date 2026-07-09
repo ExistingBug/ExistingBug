@@ -1,146 +1,147 @@
-# Hi there, I'm Rujal Chhawachharia 👋
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Full-Stack+MERN+Developer;AI+%7C+LangChain+%7C+Python+Developer;DSA+Enthusiast;Building+Production-Ready+Applications;Always+Learning+Always+Building" />
-</p>
+<!-- Animated wave header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=220&section=header&text=Rujal%20Chhawachharia&fontSize=48&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20AI%20Engineering%20Enthusiast&descAlignY=58&descSize=18&descColor=7aa2f7" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ExistingBug&label=Profile%20Views&color=7aa2f7&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/ExistingBug?style=for-the-badge&color=7aa2f7"/>
-  <img src="https://img.shields.io/github/stars/ExistingBug?affiliations=OWNER&style=for-the-badge&color=bb9af7"/>
-</p>
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=650&lines=Building+production-grade+full-stack+systems;Architecting+secure+%2C+scalable+backends;Exploring+RAG+%2B+LLM+Engineering;Computer+Engineering+Undergrad+%40+TSEC+Mumbai;Open+to+SDE+Internships+2026" alt="Typing SVG" />
+</a>
 
-# 💫 About Me
+<br/>
 
-🎓 Computer Engineering student at **Thadomal Shahani Engineering College (TSEC), Mumbai** (CGPA **9.31/10**)
+<!-- Badges -->
+<img src="https://img.shields.io/badge/CGPA-9.31%2F10-7aa2f7?style=for-the-badge&labelColor=1a1b26"/>
+<img src="https://img.shields.io/badge/Focus-Full--Stack%20%2B%20AI-bb9af7?style=for-the-badge&labelColor=1a1b26"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-9ece6a?style=for-the-badge&labelColor=1a1b26"/>
 
-💻 Full-Stack MERN Developer passionate about building scalable backend systems and modern React applications.
+<br/>
 
-🤖 Exploring **Generative AI, LangChain, IBM watsonx, Agentic AI, RAG Systems and LLM Engineering**.
 
-🧩 Strong interest in **Data Structures & Algorithms, System Design, Backend Engineering and Software Architecture**.
+</div>
 
----
+<br/>
 
-# 🚀 Tech Stack
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-### Languages
-Java • Python • JavaScript • C • SQL • HTML • CSS
+## 🚀 About Me
 
-### Frontend
-React • Axios • Responsive UI
+<table>
+<tr>
+<td width="60%" valign="top">
 
-### Backend
-Node.js • Express.js • REST APIs • JWT • bcrypt • Multer
+I'm a second-year **Computer Engineering** student at **Thadomal Shahani Engineering College (TSEC), Mumbai**, building toward a career as a **Software Development Engineer**. I care about the unglamorous parts of engineering — clean auth flows, sane error handling, and UIs people don't have to fight with — as much as the flashy features.
 
-### Databases
-MongoDB • Mongoose • MySQL
+My work sits at the intersection of **full-stack development (MERN)** and **applied AI**: I've shipped production-style apps with secure authentication and cloud-integrated file pipelines, and I'm now extending that into AI-assisted features and LLM-powered tools like RAG-based chatbots.
 
-### AI
-Python • LangChain • IBM watsonx • Prompt Engineering • RAG (Learning)
+📍 Currently seeking a **Software Development Internship** where I can contribute meaningfully from day one.
 
-### Tools
-Git • GitHub • Linux • Postman • Cloudinary • VS Code • Figma
+</td>
+<td width="40%" valign="top">
 
----
+**Quick Facts**
 
-# 🏆 Featured Projects
+| | |
+|---|---|
+| 🎓 Education | TSEC Mumbai, B.E. Computer Eng. |
+| 📅 Timeline | 2024 – 2028 |
+| 📊 CGPA | 9.31 / 10 |
+| 🎯 Focus | Full-Stack (MERN) + Applied AI |
+| 🌱 Exploring | RAG · LLMs · System Design · Agentic AI |
 
-## 🚗 VahanSathi
-Production-style MERN application for vehicle management.
+</td>
+</tr>
+</table>
 
-- Secure JWT Authentication
-- Multi-user dashboards
-- Vehicle document management
-- Cloudinary + Multer uploads
-- Service reminders
-- Maintenance history
-- AI-assisted vehicle search
-- Modular backend architecture
-- MongoDB + Express + React + Node.js
+- 🛠️ Hands-on experience architecting and shipping **production-grade full-stack web applications**
+- 🔐 Comfortable owning backend systems end-to-end — JWT auth, REST API design, DB modeling, file pipelines
+- 🤖 Actively expanding into **AI-integrated applications** — from AI-assisted search features to LLM-powered chat tools
 
----
+<br/>
 
-## 🚁 BharatCopter
+## ⚡ Engineering Stack
 
-Disaster management drone dashboard.
+<div align="center">
 
-- Google Maps integration
-- Live drone visualization
-- Responsive React UI
-- Real-time monitoring
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,c,python,js,html,css&theme=dark"/>
 
----
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,figma&theme=dark"/>
 
-# 💻 Competitive Programming
+**Backend & APIs**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
 
-- 📚 Data Structures & Algorithms
-- ☕ Java for LeetCode
-- 🐍 Python problem solving
-- Daily coding practice
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
 
----
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark"/>
 
-# 🌱 Currently Exploring
+</div>
 
-- Agentic AI
-- LangChain
-- AI Agents
-- LLM Engineering
-- RAG Pipelines
-- MCP
-- System Design
-- Cloud Native Applications
-- Docker
-- Kubernetes
-- High Performance Backend Systems
+<details>
+<summary><b>📋 Full Skill Breakdown</b></summary>
+<br/>
 
----
+| Category | Technologies |
+|---|---|
+| 💻 **Languages** | Java, C, Python, JavaScript, HTML, CSS, SQL |
+| 🎨 **Frontend** | React.js, Axios, Responsive UI Design |
+| ⚙️ **Backend** | Node.js, Express.js, REST APIs, JWT, bcrypt, Multer |
+| 🗄️ **Databases** | MongoDB (Mongoose ODM), MySQL |
+| ☁️ **Cloud & Tools** | Cloudinary, Git/GitHub, Postman, Figma, VS Code, Linux |
+| 🤖 **AI (Learning)** | LangChain, RAG pipelines, LLM-integrated app design |
 
-# 📈 GitHub Analytics
+</details>
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ExistingBug&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ExistingBug&theme=tokyonight&hide_border=true"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExistingBug&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ExistingBug&theme=tokyo-night"/>
-</p>
+## 🌱 Currently Exploring
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ExistingBug&theme=tokyonight&no-frame=true&row=2&column=4"/>
-</p>
+<div align="center">
 
-### 🐍 Contribution Snake
+<img src="https://img.shields.io/badge/RAG_Systems-1a1b26?style=for-the-badge&logo=databricks&logoColor=7aa2f7"/>
+<img src="https://img.shields.io/badge/LLM_Engineering-1a1b26?style=for-the-badge&logo=openai&logoColor=bb9af7"/>
+<img src="https://img.shields.io/badge/System_Design-1a1b26?style=for-the-badge&logo=todoist&logoColor=9ece6a"/>
+<img src="https://img.shields.io/badge/LangChain-1a1b26?style=for-the-badge&logo=chainlink&logoColor=ff9e64"/>
+<img src="https://img.shields.io/badge/Agentic_AI-1a1b26?style=for-the-badge&logo=robotframework&logoColor=f7768e"/>
 
-```text
-Create this GitHub Action:
-Platane/snk
-Output:
-dist/github-contribution-grid-snake-dark.svg
-```
+</div>
 
-Then embed:
 
-```md
-<p align="center">
-<img src="https://raw.githubusercontent.com/ExistingBug/ExistingBug/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-```
 
----
+## 🤝 Let's Connect
 
-# 🤝 Connect
+<div align="center">
 
-- GitHub: https://github.com/ExistingBug
-- LinkedIn: https://www.linkedin.com/in/rujal-chhawachharia
-- Email: rujalchhawachharia@gmail.com
+<a href="mailto:rujalchhawachharia@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e"/>
+</a>
+<a href="https://www.linkedin.com/in/rujal-chhawachharia">
+  <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7"/>
+</a>
+<a href="https://github.com/ExistingBug">
+  <img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5"/>
+</a>
 
----
+</div>
 
-> "Great software isn't built by writing more code—it is built by solving the right problems with clean engineering."
+<br/>
+
+<div align="center">
+
+### 💬
+
+*"Code that only works in the demo isn't finished — ship for the edge cases, not just the happy path."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b26&height=120&section=footer" width="100%"/>
+
+</div>
