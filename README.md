@@ -24,7 +24,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 🚀 About Me
+## About Me
 
 <table>
 <tr>
@@ -43,11 +43,11 @@ My work sits at the intersection of **full-stack development (MERN)** and **appl
 
 | | |
 |---|---|
-| 🎓 Education | TSEC Mumbai, B.E. Computer Eng. |
-| 📅 Timeline | 2024 – 2028 |
-| 📊 CGPA | 9.4 / 10 |
-| 🎯 Focus | Full-Stack (MERN) + Applied AI |
-| 🌱 Exploring | RAG · LLMs · System Design · Agentic AI |
+| Education | TSEC Mumbai, B.E. Computer Eng. |
+| Timeline | 2024 – 2028 |
+| CGPA | 9.4 / 10 |
+| Focus | Full-Stack (MERN) + Applied AI |
+| Exploring | RAG · LLMs · System Design · Agentic AI |
 
 </td>
 </tr>
@@ -59,7 +59,7 @@ My work sits at the intersection of **full-stack development (MERN)** and **appl
 
 <br/>
 
-## ⚡ Engineering Stack
+## Engineering Stack
 
 <div align="center">
 
@@ -91,18 +91,18 @@ My work sits at the intersection of **full-stack development (MERN)** and **appl
 
 | Category | Technologies |
 |---|---|
-| 💻 **Languages** | Java, C, Python, JavaScript, HTML, CSS, SQL |
-| 🎨 **Frontend** | React.js, Axios, Responsive UI Design |
-| ⚙️ **Backend** | Node.js, Express.js, REST APIs, JWT, bcrypt, Multer |
-| 🗄️ **Databases** | MongoDB (Mongoose ODM), MySQL |
-| ☁️ **Cloud & Tools** | Cloudinary, Git/GitHub, Postman, Figma, VS Code, Linux |
-| 🤖 **AI (Learning)** | LangChain, RAG pipelines, LLM-integrated app design |
+| **Languages** | Java, C, Python, JavaScript, HTML, CSS, SQL |
+| **Frontend** | React.js, Axios, Responsive UI Design |
+| **Backend** | Node.js, Express.js, REST APIs, JWT, bcrypt, Multer |
+| **Databases** | MongoDB (Mongoose ODM), MySQL |
+| **Cloud & Tools** | Cloudinary, Git/GitHub, Postman, Figma, VS Code, Linux |
+| **AI (Learning)** | LangChain, RAG pipelines, LLM-integrated app design |
 
 </details>
 
 
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 <div align="center">
 
@@ -116,7 +116,7 @@ My work sits at the intersection of **full-stack development (MERN)** and **appl
 
 
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
