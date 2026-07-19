@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Badges -->
-<img src="https://img.shields.io/badge/CGPA-9.31%2F10-7aa2f7?style=for-the-badge&labelColor=1a1b26"/>
+<img src="https://img.shields.io/badge/CGPA-9.4%2F10-7aa2f7?style=for-the-badge&labelColor=1a1b26"/>
 <img src="https://img.shields.io/badge/Focus-Full--Stack%20%2B%20AI-bb9af7?style=for-the-badge&labelColor=1a1b26"/>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-9ece6a?style=for-the-badge&labelColor=1a1b26"/>
 
@@ -45,7 +45,7 @@ My work sits at the intersection of **full-stack development (MERN)** and **appl
 |---|---|
 | 🎓 Education | TSEC Mumbai, B.E. Computer Eng. |
 | 📅 Timeline | 2024 – 2028 |
-| 📊 CGPA | 9.31 / 10 |
+| 📊 CGPA | 9.4 / 10 |
 | 🎯 Focus | Full-Stack (MERN) + Applied AI |
 | 🌱 Exploring | RAG · LLMs · System Design · Agentic AI |
 
@@ -136,9 +136,9 @@ My work sits at the intersection of **full-stack development (MERN)** and **appl
 
 <div align="center">
 
-### 💬
+### Philosophy is Funny.. hehe
 
-*"Code that only works in the demo isn't finished — ship for the edge cases, not just the happy path."*
+*"Occam’s Razor: The philosophical principle that the simplest solution is usually the best. Naturally, I used a Kubernetes cluster for this."*
 
 <br/>
 
