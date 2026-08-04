@@ -53,9 +53,9 @@ My work sits at the intersection of **full-stack development (MERN)** and **appl
 </tr>
 </table>
 
-- 🛠️ Hands-on experience architecting and shipping **production-grade full-stack web applications**
-- 🔐 Comfortable owning backend systems end-to-end — JWT auth, REST API design, DB modeling, file pipelines
-- 🤖 Actively expanding into **AI-integrated applications** — from AI-assisted search features to LLM-powered chat tools
+- Hands-on experience architecting and shipping **production-grade full-stack web applications**
+- Comfortable owning backend systems end-to-end — JWT auth, REST API design, DB modeling, file pipelines
+- Actively expanding into **AI-integrated applications** — from AI-assisted search features to LLM-powered chat tools
 
 <br/>
 
